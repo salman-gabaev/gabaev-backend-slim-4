@@ -1,0 +1,24 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="RIGHT_MARGIN" value="160" />
+    <option name="SOFT_MARGINS" value="120" />
+    <PHPCodeStyleSettings>
+      <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
+      <option name="PHPDOC_KEEP_BLANK_LINES" value="false" />
+      <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
+      <option name="LOWER_CASE_NULL_CONST" value="true" />
+      <option name="ELSE_IF_STYLE" value="COMBINE" />
+      <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
+      <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
+      <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+      <option name="NEW_LINE_AFTER_PHP_OPENING_TAG" value="true" />
+    </PHPCodeStyleSettings>
+    <codeStyleSettings language="Markdown">
+      <option name="WRAP_ON_TYPING" value="1" />
+    </codeStyleSettings>
+    <codeStyleSettings language="PHP">
+      <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+      <option name="WRAP_ON_TYPING" value="1" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
